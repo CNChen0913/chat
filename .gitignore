@@ -147,3 +147,7 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# 以防萬一:密碼、金鑰的文字檔不要進版本控制
+*password*.txt
+*secret*.txt
